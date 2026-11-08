@@ -2606,6 +2606,8 @@ JBEの算定式では、藻場面積、湿重量、含水比、P/Bmax比、炭�
 
 - Verra. (n.d.). *Methodology framework for seaweed carbon projects (M0172)*. https://verra.org/methodologies/methodology-framework-for-seaweed-carbon-projects/
 
+## 参考文献・引用文献
 
+[参考文献一覧はこちら（Issue #2）](https://github.com/MinatoTanabe/-_2026gsc_MinatoTanabe/issues/2)
 
 **記載方針：** 本文中の括弧内は著者と年を示すAPA方式に統一した。発行年を確認できないWebページには暫定的に「n.d.」を用いた。今後Webページの更新日・データセットの公開版・文献メタデータを確認した場合は、本文の引用と参考文献の双方を更新する。
