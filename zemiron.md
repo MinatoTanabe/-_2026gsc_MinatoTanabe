@@ -2544,7 +2544,7 @@ JBEの算定式では、藻場面積、湿重量、含水比、P/Bmax比、炭�
 
 古橋研究室の卒論・ゼミ論ルールに従い、参考文献一覧はGitHubリポジトリ内で**独立した「参考文献・引用文献」Issue**としても公開する。以下は本文参照用の一覧であり、IssueのURLは作成後に追加する。
 
-**GitHub Issue URL：［公開後にリンクを記入］**
+**GitHub Issue URL：［https://github.com/MinatoTanabe/-_2026gsc_MinatoTanabe/issues/2］**
 
 - 環境省. (2025). *ブルーカーボンを活用！令和の里海づくりに向けた藻場・干潟の保全・再生の評価の手引き*. https://www.env.go.jp/water/heisa/bluecarbon.html
 
