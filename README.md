@@ -21,7 +21,7 @@
 
 ### 発表スライド
 
-[ゼミ論秋季中間発表スライド（Speaker Deck）]（https://speakerdeck.com/minatotanabe/zemiron-chuukan-houkoku-1）
+[ゼミ論秋季中間発表スライド（Speaker Deck）]https://speakerdeck.com/minatotanabe/zemiron-chuukan-houkoku-1⁠
 
 ## 質疑応答（Q&A）
 
